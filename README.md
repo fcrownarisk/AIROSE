@@ -5,4 +5,6 @@ a diffusion model named ROSE based on virtual AIR UI control panel can be observ
 
 another alter for advaned User Interface
 
+with only 27 nodes in a 3*3*3 Cube
+
 pure Visual Basic .net code
