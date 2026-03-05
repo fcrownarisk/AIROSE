@@ -57,7 +57,7 @@
 #define CHARGING_IDLE            0
 #define CHARGING_ACTIVE          1
 #define CHARGING_NEGOTIATING     2
-#define CHARGING_ERROR            3
+#define CHARGING_ERROR           3
 #define CHARGING_COMPLETED       4
 
 /* Power Management Modes */
@@ -1101,4 +1101,5 @@ int main(int argc, char **argv) {
     printf("The project, like Apple's original AirDesk, has been abandoned.\n");
     
     return 0;
+
 }
